@@ -1,6 +1,9 @@
 # 💫 About Me:
 "I'm Jaseel VK, a backend developer at Tegain, passionate about building scalable and efficient web solutions
 
+![Jaseel VK](https://img.shields.io/badge/Fullstack_Developer-blue?style=for-the-badge)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Backend+Expert;Open+Source+Contributor&color=blue)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
