@@ -10,7 +10,7 @@
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaseelvk/">
+  <a href="https://www.linkedin.com/in/jaseel-vk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
