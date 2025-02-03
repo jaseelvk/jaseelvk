@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:jaseelvk@gmail.com">
+  <a href="mailto:jaseelvk0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
